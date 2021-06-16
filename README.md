@@ -1,3 +1,4 @@
 # EvaluacionFinalGit
 El Dojo Dodge de SCESILIA
-VERSION 1
+CARACTERISTICA 1
+SE ARREGLO EL BUG
